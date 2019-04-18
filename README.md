@@ -37,7 +37,7 @@ func findPairs(in array: [Int], withSum sum: Int) {
 
 ### Question 2: Is Palindrome?
 
-Create a function that checks if a string is a palindrome. A palindrome is a word that reads the same way even if you read it backwards.
+Create a function that checks if a string is a palindrome and returns `true` or `false`. A palindrome is a word that reads the same way even if you read it backwards.
 
 Example palindromes:
 
